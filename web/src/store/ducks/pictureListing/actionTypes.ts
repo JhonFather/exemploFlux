@@ -1,0 +1,5 @@
+export const GET_PICTURE_LISTING = '@PictureListing/GET_PICTURE_LISTING';
+export const GET_PICTURE_LISTING_SUCCESS =
+    '@PictureListing/GET_PICTURE_LISTING_SUCCESS';
+export const GET_PICTURE_LISTING_ERROR =
+    '@PictureListing/GET_PICTURE_LISTING_ERROR';
